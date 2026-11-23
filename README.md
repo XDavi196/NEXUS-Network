@@ -1,7 +1,7 @@
 # NEXUS Network
 
 <p align="center">
-  <img src="assets/nexus-network-logo.png" alt="NEXUS Network logo" width="180" />
+  <img src="assets/nexus-network-logo.png" alt="NEXUS Network logo" width="180" style="border-radius: 12%;" />
 </p>
 
 **An independent, community-made fork of [ZNeko Launcher](https://github.com/zneko-org/zneko-launcher) that adds a Discord-powered _NEXUS Network_ tab.**
