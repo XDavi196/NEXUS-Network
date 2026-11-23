@@ -1,6 +1,5 @@
 # NEXUS Network
 
-
 **An independent, community-made fork of [ZNeko Launcher](https://github.com/zneko-org/zneko-launcher) that adds a Discord-powered _NEXUS Network_ tab.**
 
 > ## ⚠️ Important: this is an independent fork
